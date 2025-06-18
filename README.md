@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python,streamlit,and database management of mongodb etc.
 - 💞️ I’m looking to collaborate on any opportunity i could get to help in it from scratch or to add improvement and make program more polished.  
 - 📫 How to reach me:-
-- email-aniketbhilai2042@gmail.com
+- Email- aniketbhilai2042@gmail.com
 - linkedin-www.linkedin.com/in/aniket-paul-2a0016334
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I purely belong to biological field or used to....
