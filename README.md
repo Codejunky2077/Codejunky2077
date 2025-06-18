@@ -1,14 +1,37 @@
-- 👋 Hi, I’m @Codejunky2077
-- 👀 I’m interested in building pipeline software product and solving real world bottelneck problems related to wet labs of life sciences.
-- 🌱 I’m currently learning python,streamlit,and database management of mongodb etc.
-- 💞️ I’m looking to collaborate on any opportunity i could get to help in it from scratch or to add improvement and make program more polished.  
-- 📫 How to reach me:-
-- Email- aniketbhilai2042@gmail.com
-- linkedin-www.linkedin.com/in/aniket-paul-2a0016334
-- 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I purely belong to biological field or used to....
+## 👋 Hi, I’m Aniket (@Codejunky2077)
 
-<!---
-Codejunky2077/Codejunky2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Aspiring Biotech Software Developer** | Bridging Life Sciences & Code  
+🔬 From a biology background, now building tools to solve real-world lab inefficiencies through software.
+
+### 🔧 What I’m Working On
+
+- Building pipeline software for **wet lab automation** and **data workflows**  
+- Currently focused on:
+  - 🐍 `Python` – scripting, CLI tools, data handling  
+  - ⚡ `Streamlit` – rapid UI prototyping  
+  - 🍃 `MongoDB` – lab data storage and retrieval
+
+
+### 🤝 Collaboration Goals
+
+- Open to contributing to:
+  - 🧬 Bioinformatics tools  
+  - 🔁 Lab automation and data workflow solutions  
+  - 📘 Experimental ELN (Electronic Lab Notebook) platforms  
+- I can join from **scratch** or help **improve and polish** existing projects.
+
+
+### 📫 How to Reach Me
+
+- **Email**: [aniketbhilai2042@gmail.com](mailto:aniketbhilai2042@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/aniket-paul-2a0016334](https://linkedin.com/in/aniket-paul-2a0016334)
+
+
+### ⚡ Fun Fact
+
+Despite being from a pure biology background, I now write code that makes scientist's lives easier.
+
+
+
+
+
